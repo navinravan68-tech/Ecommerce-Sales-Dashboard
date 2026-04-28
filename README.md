@@ -11,7 +11,9 @@ Interactive Excel dashboard built to analyze ecommerce sales, profit, customer t
 
 ## Dashboard Preview
 
-![Dashboard](screenshot/dashboard.png)
+<p align="center">
+  <img src="screenshot/Dashboard.png" alt="Ecommerce Sales Dashboard" width="1000">
+</p>
 
 ## Files Included
 - Ecommerce_Sales_Dashboard.xlsx
